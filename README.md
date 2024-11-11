@@ -1,4 +1,4 @@
-# JS-06 DOM Manipulation
+# JS-07 - Fetch & REST API
 
 ## Ejercicios realizados por Alberto Villanueva 
 
